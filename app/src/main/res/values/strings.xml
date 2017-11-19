@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DailyHunt</string>
+    <string name="string_enter_name">Name</string>
+    <string name="string_choose_password">Password</string>
+    <string name="string_enter_email">Email</string>
+    <string name="string_enter_mobile">Mobile</string>
+    <string name="string_preferred_location">Preferred Location</string>
+    <string name="button_register">Register</string>
 </resources>
